@@ -6,7 +6,7 @@ Details to Support the [CTI Report Outline](https://github.com/reachchrisyoung/C
 
 <h2>Bottom Line Up Front (B.L.U.F.)</h2>
 
-<h3>WHAT NOT TO DO</h3>
+<h4>WHAT NOT TO DO</h4>
 <br />
 DO NOT start a paper by defining the methodology in which I did my analysis or purpose of the workproduct.<br />
 <br />
@@ -34,7 +34,7 @@ Just answer the question that the leadership has because they don’t have the t
 <br />
 	Easy – they can ask, and then I can provide the information that they need.
 
-<h3>TIPS on BLUF 1st Paragraph</h3>
+<h4>TIPS on BLUF 1st Paragraph</h4>
 
 - DO NOT exceed 5 sentences. (1 Paragraph at most!)<br />
 - State my assessment using estimative language.<br />
