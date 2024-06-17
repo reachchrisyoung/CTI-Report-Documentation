@@ -73,3 +73,15 @@ Example of a Key Judgment from a November 2007 National Intelligence Estimate fr
 
 	“We judge with high confidence that in Fall 2003, Tehran halted its nuclear weapons program; we also assess with moderate-to-high confidence that Tehran at a minimum is keeping open the option to develop nuclear weapons.” 
 
+<h2>Source Summary Statement</h2>
+
+- Coming soon...
+
+<h2>Threat and Strategic Analysis</h2>
+
+- Coming soon...
+
+<h2>Conclusion</h2>
+
+- Coming soon...
+
