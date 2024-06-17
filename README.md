@@ -16,15 +16,22 @@ DO NOT start a paper by defining the methodology in which I did my analysis or p
 <br />
 <br />
 INSTEAD…
-	Get right to the point!
+	
+       <h4>Get right to the point!</h4>
 
-How do I get right to the point?
-	Answer the question that my audience wants to know as the very first thing upfront.
+<h4>How do I get right to the point?</h4>
+<br />
+<br />
+	<b>Answer the question that my audience wants to know as the very first thing upfront.</b><br />
+ <br />
 
-Just answer the question that the leadership has because they don’t have the time to know all of the methods that I had used. 
+Just answer the question that the leadership has because they don’t have the time to know all of the methods that I had used. <br />
+<br />
 	Instead, they simply want to know what the bottom line is.
 
-What if my audience has additional questions, though?
+<h4>What if my audience has additional questions, though?</h4>
+<br />
+<br />
 	Easy – they can ask, and then I can provide the information that they need.
 
 <h3>TIPS on BLUF 1st Paragraph</h3>
