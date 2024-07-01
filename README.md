@@ -5,7 +5,7 @@ NOTE: This is a commentary, drafted by inspiration by [See Source Link Above].
 
 # General CTI Reporting Methodology
 
-Details to Support the [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline?tab=readme-ov-file#readme)
+Details Here Support the [General CTI Report Outline](https://github.com/reachchrisyoung/General-CTI-Report-Outline?tab=readme-ov-file#readme)
 <br />
 <br />
 
