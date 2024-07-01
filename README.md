@@ -1,6 +1,6 @@
-Topic: CTI Reporting Methodologies Note 1
-Subject: General CTI Reporting Metholodogy
-Source: CISA | Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE
+Topic: CTI Reporting Methodologies Note 1 <br />
+Subject: General CTI Reporting Metholodogy <br />
+Source: CISA | Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE <br />
 NOTE: This is a commentary, drafted by inspiration by [See Source Link Above].
 
 # General CTI Reporting Methodology
