@@ -1,4 +1,4 @@
-# CTI Report Documentation
+# General CTI Reporting Methodology
 
 Details to Support the [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
 <br />
