@@ -1,6 +1,6 @@
 # General CTI Reporting Methodology
 
-Details to Support the [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
+Details to Support the [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline?tab=readme-ov-file#readme)
 <br />
 <br />
 
